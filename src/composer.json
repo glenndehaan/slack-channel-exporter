@@ -1,0 +1,16 @@
+{
+  "name": "glenndehaan/slack-channel-exporter",
+  "description": "A little PHP script that exports Slack Channels to JSON",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Glenn de Haan",
+      "email": "glenn@dehaan.cloud"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "nategood/httpful": ">=0.2.20"
+  }
+}

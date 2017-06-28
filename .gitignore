@@ -1,0 +1,12 @@
+# PhpStorm
+.idea
+
+# General files
+*~
+*.DS_STORE
+
+# Dependency managers
+vendor/
+
+# Data folder
+src/data/*.json
